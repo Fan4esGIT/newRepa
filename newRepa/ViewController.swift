@@ -20,6 +20,9 @@ class ViewController: UIViewController {
         let newView = UIView()
         view.addSubview(newView)
     }
-    print("hello")
+    
+    func press() {
+        print("hello")
+    }
 }
 
